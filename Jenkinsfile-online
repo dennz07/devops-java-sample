@@ -17,6 +17,7 @@ pipeline {
         DOCKERHUB_NAMESPACE = 'dennz07'
         GITHUB_ACCOUNT = 'dennz07'
         APP_NAME = 'devops-java-sample'
+        DOCKER_USERNAME = 'dennz07'
     }
 
     stages {
